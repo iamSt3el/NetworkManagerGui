@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=NetworkManagerGUI
+Exec=NetworkManagerGUI
+Icon=network-wireless
+Type=Application
+Categories=Utility;Network;
+Comment=GUI for NetworkManager

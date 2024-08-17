@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.example.NetworkManagerGUI</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>NetworkManagerGUI</name>
+  <summary>GUI for NetworkManager</summary>
+  <description>
+    <p>
+      NetworkManagerGUI is a graphical user interface for NetworkManager,
+      allowing easy management of network connections on Linux systems.
+    </p>
+  </description>
+  <url type="homepage">https://github.com/iamSt3el/NetworkManagerGui.git</url>
+  <provides>
+    <binary>NetworkManagerGUI</binary>
+  </provides>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="1.0" date="2023-08-17" />
+  </releases>
+</component>
